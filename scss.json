@@ -33,7 +33,7 @@
 			"}",
 			"li {",
 			"list-style-type: none;",
-			"}",
+			"}"
 		],
 		"description": "Mobile First SCSS Boilerplate"
 	},
@@ -135,7 +135,7 @@
 			"  color: $;",
 			"}",
 			".bold {font-weight: bold}",
-			".underline {text-decoration: underline}",
+			".underline {text-decoration: underline}"
 		],
 		"description": "Fonts and Colors"
 	}
